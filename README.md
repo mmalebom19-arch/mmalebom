@@ -31,12 +31,6 @@ A full-stack campus community platform built with **.NET 8 Web API** and **Angul
 Covers authentication, CRUD operations, RESTful architecture, and responsive UI.
 `C#` `Angular` `SQL Server` `.NET 8`
 
----
-
-### 📐 [Systems Analysis & Design Portfolio](https://github.com/YOUR_USERNAME/systems-analysis-portfolio)
-Technical documentation portfolio for two enterprise systems — **OmniConnect** (integrated business management) and **Maison Élan** (e-commerce platform).
-Includes use case narratives, BPMN diagrams, database schemas, and functional decomposition.
-`Systems Analysis` `BPMN` `UML` `SQL` `Database Design`
 
 ---
 
