@@ -1,8 +1,8 @@
 # Hi, I'm Malebo 👋
 
-I'm a final year **Bachelor of Information Technology** student at the University of Pretoria, specialising in **Information Systems with a Computer Auditing focus**. At heart, I'm an auditor who builds — I care deeply about how systems work, whether they're reliable, and whether they can be trusted. That lens shapes how I approach software: I think about data integrity, traceability, and good structure from day one.
+I'm a final year **Bachelor of Information Technology** student at the University of Pretoria, specialising in **Information Systems with a Computer Auditing focus**. At heart, I'm an auditor who builds, I care deeply about how systems work, whether they're reliable, and whether they can be trusted. That lens shapes how I approach software: I think about data integrity, traceability, and good structure from day one.
 
-I enjoy working across the stack — from designing normalised databases and business processes to building full-stack web and mobile applications — and I'm passionate about technology that solves real problems for real people.
+I enjoy working across the stack, from designing normalised databases and business processes to building full-stack web and mobile applications, and I'm passionate about technology that solves real problems for real people.
 
 ---
 
@@ -34,7 +34,7 @@ Agile / Scrum  •  REST APIs  •  BPMN  •  UML  •  COBIT 2019  •  IT Aud
 ## 🚀 Featured Projects
 
 ### 🎬 [FilmLog – Movie Tracking Mobile App](https://github.com/YOUR_USERNAME/filmlog)
-A cross-platform mobile application built with **Ionic 7 + Angular 17**. Users can search real movies via the IMDb API, manage a personal Watchlist, and track rewatches — modelled after apps like Letterboxd and IMDb.  
+A cross-platform mobile application built with **Ionic 7 + Angular 17**. Users can search real movies via the IMDb API, manage a personal Watchlist, and track rewatches, modelled after apps like Letterboxd and IMDb.  
 `TypeScript` `Ionic` `Angular` `REST API` `Ionic Storage`
 
 ---
